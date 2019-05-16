@@ -19,3 +19,5 @@ Maak gebruik van de git commando'saddencommitom het geüpdatetebestand toe te voe
 Zorg ervoor dat je lokale commits gesynchroniseerd worden op deGitHub repositoryLabo03.
 
 Maak een screenshot van de gebruikte commando’
+
+
