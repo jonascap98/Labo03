@@ -21,3 +21,5 @@ Zorg ervoor dat je lokale commits gesynchroniseerd worden op deGitHub repository
 Maak een screenshot van de gebruikte commando’
 
 
+“pulled content from online repo” 
+
